@@ -24,8 +24,8 @@
 }
 @media(max-width: 479px) {
   .home-iframe {
-    width: 320px;
-    height: 1023px;
+    width: 372px;
+    height: 1007px;
     padding-bottom: 28px;
   }
 }
