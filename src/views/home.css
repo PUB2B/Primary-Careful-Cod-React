@@ -1,0 +1,30 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-iframe {
+  width: 808px;
+  height: 1001px;
+}
+@media(max-width: 991px) {
+  .home-iframe {
+    width: 989px;
+    height: 987px;
+  }
+}
+@media(max-width: 767px) {
+  .home-iframe {
+    width: 767px;
+    height: 998px;
+  }
+}
+@media(max-width: 479px) {
+  .home-iframe {
+    width: 479px;
+    height: 993px;
+  }
+}
