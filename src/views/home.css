@@ -7,24 +7,25 @@
   justify-content: flex-start;
 }
 .home-iframe {
-  width: 808px;
-  height: 1001px;
+  width: 1199px;
+  height: 1004px;
 }
 @media(max-width: 991px) {
   .home-iframe {
-    width: 989px;
-    height: 987px;
+    width: 991px;
+    height: 1007px;
   }
 }
 @media(max-width: 767px) {
   .home-iframe {
     width: 767px;
-    height: 998px;
+    height: 993px;
   }
 }
 @media(max-width: 479px) {
   .home-iframe {
-    width: 479px;
-    height: 993px;
+    width: 320px;
+    height: 1023px;
+    padding-bottom: 28px;
   }
 }
